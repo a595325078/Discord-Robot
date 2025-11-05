@@ -5,13 +5,13 @@ Discord音樂機器人
 目前命令前綴為正斜線字元（$）。
 
 指令:
-加入 $join
-撥放音樂 $play
-加入音樂清單 $queue
-暫停 $pause
-繼續 $resume
-跳過 $skip
-離開 $leave
+$join : 加入 
+$play : 撥放音樂 
+$queue : 加入音樂清單 
+$pause : 暫停 
+$resume : 繼續 
+$skip : 跳過 
+$leave : 離開 
 
 如何克隆並運行它：
 該機器人依賴 FFmpeg、、dotenv、PyNaCl 和 discord.py。
